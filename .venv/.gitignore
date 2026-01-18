@@ -121,7 +121,7 @@ dmypy.json
 
 # Windows
 Thumbs.db
-Thumbs.db:encryptable
+Thumbs.db:encryptableife
 ehthumbs.db
 ehthumbs_vista.db
 *.stackdump
